@@ -8,6 +8,6 @@ This is the project I completed during the final year of my master's, where I an
 * Reduced credit risk exposure for mortgage portfolios.
 
 Tools:
-**Jupyter Notebooks**: For data analysis and modeling.
-**SQL**: For data extraction and analysis.
-**Power BI**: To visualize key metrics and design interactive dashboard.
+* **Jupyter Notebooks**: For data analysis and modeling.
+* **SQL**: For data extraction and analysis.
+* **Power BI**: To visualize key metrics and design interactive dashboard.
